@@ -1,0 +1,27 @@
+.cardHoly{
+    border-radius: 50%;
+    margin: 15px;
+    padding: 10px;
+}
+
+.imgHoly{
+    border-radius: 60%;
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.titleHoly{
+    font-size: 15px;
+    background-color: rgb(233, 217, 187);
+    width: 120px;
+  text-align: center;
+  position: relative;
+  top: -50px;
+  left: 60px;
+  border-radius: 10%;
+}
+
+.imgHoly:hover{
+    box-shadow: 2px 2px 4px 10px rgba(0, 0, 0, 0.2);
+}
